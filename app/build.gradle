@@ -31,7 +31,8 @@ dependencies {
     // BaseRecyclerViewAdapterHelper
     compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.25'
     // viewanimator-懒加载？
-    compile 'com.github.florent37:viewanimator:1.0.5'
+//    compile 'com.github.florent37:viewanimator:1.0.5'
+    compile 'com.shizhefei:ViewPagerIndicator:1.1.2'
     // fresco
     compile 'com.facebook.fresco:fresco:1.2.0'
     // fresco-processors
